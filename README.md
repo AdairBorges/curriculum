@@ -120,9 +120,9 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 
 ## 📞 Contato
 
-- 📱 **Telefone**: (71) 98339-1948 (Claro) | (48) 99181-3703 (Vivo)
-- 📧 **E-mail**: [adairborges@gmail.com](mailto:adairborges@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/adair-borges-vieira](https://www.linkedin.com/in/adair-borges-vieira/)
+📧 **adairborges@gmail.com**  
+📱 **(71) 98339-1948 (48) 99181-3703** | WhatsApp disponível  
+📍 **Salvador/BA - Disponível para home office e presencial**
 
 ---
 
