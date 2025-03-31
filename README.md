@@ -1,136 +1,135 @@
 # 👨‍💻 Adair Borges Vieira
 
-> Desenvolvedor Sênior com mais de 31 anos de experiência 💼, apaixonado por criar soluções robustas, escaláveis e de alta performance 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adair--borges--vieira-blue?logo=linkedin)](https://www.linkedin.com/in/adair-borges-vieira/)
-[![Email](https://img.shields.io/badge/Email-adairborges@gmail.com-red?logo=gmail)](mailto:adairborges@gmail.com)
-
----
-
-## 💡 Sobre Mim
-
-Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, focado na excelência técnica e entrega de valor. Atuo como **Desenvolvedor Sênior** com sólida experiência em **Java**, **Angular**, **React**, **PowerBuilder** e **DevOps**. Minha jornada atravessa soluções **monolíticas**, **microsserviços**, **ERP** e **sistemas financeiros**, com forte atuação em **banco de dados** e **arquitetura escalável**.
-
-> 🛠️ "Transformar complexidade em simplicidade é minha missão."
-
----
-
-## 🚀 Stack de Tecnologias
 <div align="center">
-### 👨‍🏭 Backend  
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![PowerBuilder](https://img.shields.io/badge/PowerBuilder-007ACC?logoColor=white)](https://www.appeon.com/products/powerbuilder.html)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![COBOL](https://img.shields.io/badge/COBOL-00599C?logoColor=white)](https://www.ibm.com/docs/en/cobol-zos/6.4)
-[![Dataflex](https://img.shields.io/badge/Dataflex-004680?logoColor=white)](https://www.dataaccess.com/)
-
-
-### 🎨 Frontend  
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-
-### 🧱 Arquitetura  
-[![Monolítica](https://img.shields.io/badge/Arquitetura-Monolítica-orange)](https://en.wikipedia.org/wiki/Monolithic_application)
-[![Microsserviços](https://img.shields.io/badge/Arquitetura-Microsserviços-orange)](https://martinfowler.com/articles/microservices.html)
-[![MVC](https://img.shields.io/badge/Arquitetura-MVC-blue)](https://pt.wikipedia.org/wiki/MVC)
-[![Hexagonal](https://img.shields.io/badge/Arquitetura-Hexagonal-blue)](https://alistair.cockburn.us/hexagonal-architecture/)
-
-### 🗄️ Banco de Dados  
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![Sybase](https://img.shields.io/badge/Sybase-003B57?logoColor=white)](https://www.sap.com/products/technology-platform/sybase.html)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![DB2](https://img.shields.io/badge/IBM_DB2-003366?logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
-
-### ☁️ DevOps & Cloud  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
-[![CI/CD](https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-
-### 📡 Mensageria & Integração  
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Azure Service Bus](https://img.shields.io/badge/ServiceBus-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/service-bus-messaging/)
-[![SQS](https://img.shields.io/badge/AWS%20SQS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/sqs/)
-[![REST](https://img.shields.io/badge/REST-005C84?logoColor=white)](https://restfulapi.net/)
-[![SOAP](https://img.shields.io/badge/SOAP-01499C?logoColor=white)](https://www.w3schools.com/xml/xml_soap.asp)
+  
+  ![Desenvolvedor Sênior](https://img.shields.io/badge/Desenvolvedor-Sênior-blue)
+  ![Experiência](https://img.shields.io/badge/Experiência-25%2B%20anos-green)
+  ![Localização](https://img.shields.io/badge/Localização-Salvador,%20BA-orange)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adair-borges-vieira/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adairborges@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571983391948)
+  
 </div>
+
+## 🚀 Sobre Mim
+
+Olá! Sou um Desenvolvedor Sênior com mais de 25 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1994, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
+
+Minha abordagem combina profundo conhecimento técnico com habilidades de liderança, permitindo que eu desenvolva sistemas robustos enquanto guio equipes para alcançar resultados excepcionais.
+
+> "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software apenas aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm da combinação de valores e disciplina." - **Robert C. Martin (Uncle Bob)**
+
+## 💻 Habilidades Técnicas
+
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-8A2BE2?style=flat-square)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-blue?style=flat-square)
+
+</div>
+
+## 📊 Experiência Profissional
+
+### 🏢 Sinqia S.A. (2024 - 2025)
+**Desenvolvedor SR**
+- Implementei soluções em Powerbuilder, C# e VB com .NET
+- Criei procedures e triggers em Oracle com eficiência 20% acima do esperado
+- Colaborei em equipes de até 12 desenvolvedores para personalização de soluções
+
+### 🏢 Capgemini do Brasil S.A. (2021 - 2024)
+**Desenvolvedor Full Stack**
+- Desenvolvi soluções em Java e Angular para o setor financeiro
+- Implementei práticas de DevOps (Jenkins, CI/CD, Docker) com eficiência 10-15% superior
+- Reconhecido como Líder Técnico pelo suporte à equipe e excelência técnica
+
+### 🏢 AZ Sistemas (1996 - 2020)
+**Analista Desenvolvedor de Sistemas**
+- Gerenciei sistemas ERP para múltiplos setores, aumentando a satisfação dos clientes em 70%
+- Liderei equipe de 7 programadores na modernização e integração de soluções
+- Redução de 23% no tempo de desenvolvimento através de práticas otimizadas
+
+### 🏢 Mecril Metalúrgica Criciúma Ltda (1994 - 1996)
+**Analista Desenvolvedor de Sistemas**
+- Desenvolvi sistemas ERP internos para indústria metalúrgica
+- Gerenciei equipe de 5 programadores e supervisionei a integração de aplicações
+- Conduzi transição tecnológica do ERP para ambiente mais eficiente
+
+## 🎓 Formação
+
+- **Analista de Sistemas** - Universidade do Sul de Santa Catarina (1996)
+
+### Formação Complementar
+- Formação em Full Stack (EBAC) - 950h
+- Formação em Java Avançado (TargetTrust) - 70h
+- Formação em Oracle DBA Administrator (TargetTrust) - 60h
+- Multicloud Devops & AI Challenge (Cloud Bootcamp) - 12h
+- Imersão em Inteligência Artificial (Alura) - 6h
+
+## 🌐 Idiomas
+
+- **Português**: Nativo
+- **Inglês**: Intermediário (fluência em leitura técnica)
+- **Espanhol**: Básico (leitura e escrita)
+
+## 💼 Competências Comportamentais
+
+- **Liderança**: Referência técnica e comportamental, com foco em resultados
+- **Resolução de Problemas**: Abordagem analítica para desafios complexos
+- **Comunicação**: Escuta ativa e comunicação interpessoal eficiente
+- **Adaptabilidade**: Facilidade com mudanças tecnológicas e novos contextos
+- **Resiliência**: Capacidade de manter produtividade em cenários desafiadores
+
+## 🔄 Arquiteturas e Padrões
+
+- Sistemas Monolíticos e Microsserviços
+- MVC e Arquitetura Hexagonal
+- Design Patterns (CQRS, Result)
+- APIs REST e SOAP
+- Mensageria (RabbitMQ, Apache Kafka, ServiceBus)
+
+## 📞 Contato
+
+- 📱 **Telefone**: (71) 98339-1948 (Claro) | (48) 99181-3703 (Vivo)
+- 📧 **E-mail**: [adairborges@gmail.com](mailto:adairborges@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/adair-borges-vieira](https://www.linkedin.com/in/adair-borges-vieira/)
+
 ---
 
-## 📌 Experiência Profissional
-
-### 🔹 Sinqia S.A. (2024 - 2025)
-- Integração e evolução de sistemas com **PowerBuilder**, **.NET**, e **Oracle**
-- Eficiência de queries aumentada em até **20%**
-
-### 🔹 Capgemini do Brasil (2021 - 2024)
-- Full Stack com **Java + Angular**
-- Líder técnico reconhecido
-- DevOps com aumento de eficiência entre **10% e 15%**
-
-### 🔹 AZ Sistemas (1996 - 2020)
-- ERP customizado com **PowerBuilder**, **Java**, e **PHP**
-- Redução de **23% no tempo de desenvolvimento**
-
-### 🔹 Mecril Metalúrgica (1994 - 1996)
-- Modernização tecnológica de sistemas ERP
-- Gestão de banco de dados Oracle
-
----
-
-## 📚 Formação
-
-**🎓 Análise de Sistemas - UNISUL (1996)**
-
-### 📈 Complementares
-- Full Stack (950h – EBAC)
-- Java, PHP, Oracle DBA – TargetTrust
-- Multicloud DevOps & AI – Cloud Bootcamp
-- Inteligência Artificial – Alura
-
----
-
-## 🧠 Soft Skills
-
-- 💬 Comunicação clara e objetiva  
-- 🧩 Resolução de problemas complexos  
-- 🔄 Adaptabilidade a mudanças tecnológicas  
-- 🧠 Inteligência emocional  
-- 👥 Trabalho em equipe & liderança técnica  
-- ⏱️ Gestão do tempo e produtividade  
-
----
-
-## 🌍 Idiomas
-
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Intermediário (fluência técnica)  
-- 🇪🇸 Espanhol: Básico
-
----
-
-## 🤝 Vamos conversar?
-
-📧 **adairborges@gmail.com**  
-📱 **(71) 98339-1948** | WhatsApp disponível  
-📍 **Salvador/BA - Disponível para home office e presencial**
-
----
-
-> _"Qual a possibilidade disso dar certo? Se depender de mim, MUITO ALTA."_ 😎
+<div align="center">
+  
+  ### 💡 "Códigos são como piadas: quando você precisa explicá-los, provavelmente não são bons."
+  
+  <img src="https://komarev.com/ghpvc/?username=adairborges&color=blue" alt="Profile views"/>
+  
+</div>
