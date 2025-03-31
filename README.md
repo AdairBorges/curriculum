@@ -28,6 +28,17 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 [![COBOL](https://img.shields.io/badge/COBOL-00599C?logoColor=white)](https://www.ibm.com/docs/en/cobol-zos/6.4)
 [![Dataflex](https://img.shields.io/badge/Dataflex-004680?logoColor=white)](https://www.dataaccess.com/)
 
+
+
+### Back-end1
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ### 🎨 Frontend  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
