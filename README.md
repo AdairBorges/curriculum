@@ -1,6 +1,6 @@
 # 👨‍💻 Adair Borges Vieira
 
-> Desenvolvedor Sênior com mais de 25 anos de experiência 💼, apaixonado por criar soluções robustas, escaláveis e de alta performance 🚀
+> Desenvolvedor Sênior com mais de 31 anos de experiência 💼, apaixonado por criar soluções robustas, escaláveis e de alta performance 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adair--borges--vieira-blue?logo=linkedin)](https://www.linkedin.com/in/adair-borges-vieira/)
 [![Email](https://img.shields.io/badge/Email-adairborges@gmail.com-red?logo=gmail)](mailto:adairborges@gmail.com)
@@ -16,7 +16,7 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 ---
 
 ## 🚀 Stack de Tecnologias
-
+<div align="center">
 ### 👨‍🏭 Backend  
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -28,16 +28,6 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 [![COBOL](https://img.shields.io/badge/COBOL-00599C?logoColor=white)](https://www.ibm.com/docs/en/cobol-zos/6.4)
 [![Dataflex](https://img.shields.io/badge/Dataflex-004680?logoColor=white)](https://www.dataaccess.com/)
 
-
-
-### Back-end1
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🎨 Frontend  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
@@ -80,7 +70,7 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 [![SQS](https://img.shields.io/badge/AWS%20SQS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/sqs/)
 [![REST](https://img.shields.io/badge/REST-005C84?logoColor=white)](https://restfulapi.net/)
 [![SOAP](https://img.shields.io/badge/SOAP-01499C?logoColor=white)](https://www.w3schools.com/xml/xml_soap.asp)
-
+</div>
 ---
 
 ## 📌 Experiência Profissional
