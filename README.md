@@ -37,7 +37,10 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
 ### 🧱 Arquitetura  
-Monolítica | Microsserviços | [MVC](https://pt.wikipedia.org/wiki/MVC) | [Hexagonal](https://alistair.cockburn.us/hexagonal-architecture/)
+[![Monolítica](https://img.shields.io/badge/Arquitetura-Monolítica-orange)](https://en.wikipedia.org/wiki/Monolithic_application)
+[![Microsserviços](https://img.shields.io/badge/Arquitetura-Microsserviços-orange)](https://martinfowler.com/articles/microservices.html)
+[![MVC](https://img.shields.io/badge/Arquitetura-MVC-blue)](https://pt.wikipedia.org/wiki/MVC)
+[![Hexagonal](https://img.shields.io/badge/Arquitetura-Hexagonal-blue)](https://alistair.cockburn.us/hexagonal-architecture/)
 
 ### 🗄️ Banco de Dados  
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
@@ -104,12 +107,12 @@ Monolítica | Microsserviços | [MVC](https://pt.wikipedia.org/wiki/MVC) | [Hexa
 
 ## 🧠 Soft Skills
 
-- 💬 Comunicação clara e objetiva
-- 🧩 Resolução de problemas complexos
-- 🔄 Adaptabilidade a mudanças tecnológicas
-- 🧠 Inteligência emocional
-- 👥 Trabalho em equipe & liderança técnica
-- ⏱️ Gestão do tempo e produtividade
+- 💬 Comunicação clara e objetiva  
+- 🧩 Resolução de problemas complexos  
+- 🔄 Adaptabilidade a mudanças tecnológicas  
+- 🧠 Inteligência emocional  
+- 👥 Trabalho em equipe & liderança técnica  
+- ⏱️ Gestão do tempo e produtividade  
 
 ---
 
