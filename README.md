@@ -112,11 +112,45 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 
 ## 🔄 Arquiteturas e Padrões
 
-- Sistemas Monolíticos e Microsserviços
-- MVC e Arquitetura Hexagonal
-- Design Patterns (CQRS, Result)
-- APIs REST e SOAP
-- Mensageria (RabbitMQ, Apache Kafka, ServiceBus)
+<div align="center">
+  
+  <a href="https://microservices.io/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Arquitetura-Microsserviços-blue?style=for-the-badge&logo=microservices&logoColor=white" alt="Microsserviços"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/MVC" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Padrão-MVC-success?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC"/>
+  </a>
+  
+  <a href="https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Arquitetura-Hexagonal-orange?style=for-the-badge&logo=hexagonal&logoColor=white" alt="Arquitetura Hexagonal"/>
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Pattern-CQRS-violet?style=for-the-badge&logo=cqrs&logoColor=white" alt="CQRS"/>
+  </a>
+  
+  <a href="https://restfulapi.net/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/API-REST-informational?style=for-the-badge&logo=rest&logoColor=white" alt="REST"/>
+  </a>
+  
+  <a href="https://www.soapui.org/learn/api/soap-vs-rest-api/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/API-SOAP-lightgrey?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
+  </a>
+  
+  <a href="https://www.rabbitmq.com/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Mensageria-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  </a>
+  
+  <a href="https://kafka.apache.org/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Mensageria-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
+  </a>
+  
+  <a href="https://azure.microsoft.com/en-us/services/service-bus/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Mensageria-Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Service Bus"/>
+  </a>
+
+</div>
 
 ## 📞 Contato
 
