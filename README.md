@@ -24,6 +24,15 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 
 <div align="center">
 
+### 🧠 Soft Skills
+
+- 💬 Comunicação clara e objetiva  
+- 🧩 Resolução de problemas complexos  
+- 🔄 Adaptabilidade a mudanças tecnológicas  
+- 🧠 Inteligência emocional  
+- 👥 Trabalho em equipe & liderança técnica  
+- ⏱️ Gestão do tempo e produtividade  
+
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
