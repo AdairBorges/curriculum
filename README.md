@@ -6,9 +6,15 @@
   ![Experiência](https://img.shields.io/badge/Experiência-25%2B%20anos-green)
   ![Localização](https://img.shields.io/badge/Localização-Salvador,%20BA-orange)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adair-borges-vieira/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adairborges@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571983391948)
+  <a href="https://www.linkedin.com/in/adair-borges-vieira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adairborges@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5571983391948" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   
 </div>
 
@@ -25,37 +31,87 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 <div align="center">
 
 ### Backend
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![PowerBuilder](https://img.shields.io/badge/PowerBuilder-8A2BE2?style=flat-square)](https://www.powerbuilder.eu/)
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+</a>
+<a href="https://dotnet.microsoft.com/languages/csharp" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://golang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</a>
+<a href="https://www.powerbuilder.eu/" target="_blank">
+  <img src="https://img.shields.io/badge/PowerBuilder-8A2BE2?style=flat-square" alt="PowerBuilder" />
+</a>
 
 ### Frontend
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://angular.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</a>
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</a>
 
 ### Banco de Dados
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+<a href="https://www.oracle.com/database/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</a>
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</a>
 
 ### DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-blue?style=flat-square)](https://about.gitlab.com/topics/ci-cd/)
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
+  <img src="https://img.shields.io/badge/CI/CD-Pipeline-blue?style=flat-square" alt="CI/CD" />
+</a>
 
 </div>
 
@@ -114,39 +170,39 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 
 <div align="center">
   
-  <a href="https://microservices.io/" style="text-decoration:none">
+  <a href="https://microservices.io/" target="_blank">
     <img src="https://img.shields.io/badge/Arquitetura-Microsserviços-blue?style=for-the-badge&logo=microservices&logoColor=white" alt="Microsserviços"/>
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/MVC" style="text-decoration:none">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/MVC" target="_blank">
     <img src="https://img.shields.io/badge/Padrão-MVC-success?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC"/>
   </a>
   
-  <a href="https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/" style="text-decoration:none">
+  <a href="https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/" target="_blank">
     <img src="https://img.shields.io/badge/Arquitetura-Hexagonal-orange?style=for-the-badge&logo=hexagonal&logoColor=white" alt="Arquitetura Hexagonal"/>
   </a>
   
-  <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs" style="text-decoration:none">
+  <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs" target="_blank">
     <img src="https://img.shields.io/badge/Pattern-CQRS-violet?style=for-the-badge&logo=cqrs&logoColor=white" alt="CQRS"/>
   </a>
   
-  <a href="https://restfulapi.net/" style="text-decoration:none">
+  <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.shields.io/badge/API-REST-informational?style=for-the-badge&logo=rest&logoColor=white" alt="REST"/>
   </a>
   
-  <a href="https://www.soapui.org/learn/api/soap-vs-rest-api/" style="text-decoration:none">
+  <a href="https://www.soapui.org/learn/api/soap-vs-rest-api/" target="_blank">
     <img src="https://img.shields.io/badge/API-SOAP-lightgrey?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/>
   </a>
   
-  <a href="https://www.rabbitmq.com/" style="text-decoration:none">
+  <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://img.shields.io/badge/Mensageria-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   </a>
   
-  <a href="https://kafka.apache.org/" style="text-decoration:none">
+  <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Mensageria-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
   </a>
   
-  <a href="https://azure.microsoft.com/en-us/services/service-bus/" style="text-decoration:none">
+  <a href="https://azure.microsoft.com/en-us/services/service-bus/" target="_blank">
     <img src="https://img.shields.io/badge/Mensageria-Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Service Bus"/>
   </a>
 
@@ -154,9 +210,11 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 
 ## 📞 Contato
 
-- 📱 **Telefone**: (71) 98339-1948 (Claro) | (48) 99181-3703 (Vivo)
-- 📧 **E-mail**: [adairborges@gmail.com](mailto:adairborges@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/adair-borges-vieira](https://www.linkedin.com/in/adair-borges-vieira/)
+- 📱 **Telefone**: 
+  <a href="tel:+5571983391948" target="_blank">(71) 98339-1948</a> (Claro) | 
+  <a href="tel:+5548991813703" target="_blank">(48) 99181-3703</a> (Vivo)
+- 📧 **E-mail**: <a href="mailto:adairborges@gmail.com" target="_blank">adairborges@gmail.com</a>
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/adair-borges-vieira/" target="_blank">linkedin.com/in/adair-borges-vieira</a>
 
 ---
 
