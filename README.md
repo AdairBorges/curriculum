@@ -18,53 +18,55 @@ Sou **Adair Borges Vieira**, um profissional resiliente, proativo e criativo, fo
 ## 🚀 Stack de Tecnologias
 
 ### 👨‍🏭 Backend  
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
-[![PowerBuilder](https://img.shields.io/badge/PowerBuilder-007ACC?logoColor=white)](https://www.appeon.com/products/powerbuilder.html)  
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)  
-[![COBOL](https://img.shields.io/badge/COBOL-00599C?logoColor=white)](https://www.ibm.com/docs/en/cobol-zos/6.4)  
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PowerBuilder](https://img.shields.io/badge/PowerBuilder-007ACC?logoColor=white)](https://www.appeon.com/products/powerbuilder.html)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![COBOL](https://img.shields.io/badge/COBOL-00599C?logoColor=white)](https://www.ibm.com/docs/en/cobol-zos/6.4)
 [![Dataflex](https://img.shields.io/badge/Dataflex-004680?logoColor=white)](https://www.dataaccess.com/)
 
 ### 🎨 Frontend  
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
 ### 🧱 Arquitetura  
 Monolítica | Microsserviços | [MVC](https://pt.wikipedia.org/wiki/MVC) | [Hexagonal](https://alistair.cockburn.us/hexagonal-architecture/)
 
 ### 🗄️ Banco de Dados  
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)  
-[![Sybase](https://img.shields.io/badge/Sybase-003B57?logoColor=white)](https://www.sap.com/products/technology-platform/sybase.html)  
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![DB2](https://img.shields.io/badge/IBM_DB2-003366?logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)  
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![Sybase](https://img.shields.io/badge/Sybase-003B57?logoColor=white)](https://www.sap.com/products/technology-platform/sybase.html)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![DB2](https://img.shields.io/badge/IBM_DB2-003366?logo=ibm&logoColor=white)](https://www.ibm.com/products/db2)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
 
 ### ☁️ DevOps & Cloud  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)  
-[![CI/CD](https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white)](https://github.com/features/actions)  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 ### 📡 Mensageria & Integração  
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
-[Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)  
-[SQS](https://aws.amazon.com/sqs/)  
-[REST](https://restfulapi.net/) | [SOAP](https://www.w3schools.com/xml/xml_soap.asp)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Azure Service Bus](https://img.shields.io/badge/ServiceBus-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/service-bus-messaging/)
+[![SQS](https://img.shields.io/badge/AWS%20SQS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/sqs/)
+[![REST](https://img.shields.io/badge/REST-005C84?logoColor=white)](https://restfulapi.net/)
+[![SOAP](https://img.shields.io/badge/SOAP-01499C?logoColor=white)](https://www.w3schools.com/xml/xml_soap.asp)
+
 ---
 
 ## 📌 Experiência Profissional
