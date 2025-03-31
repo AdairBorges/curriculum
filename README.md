@@ -14,24 +14,17 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou um Desenvolvedor Sênior com mais de 25 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1994, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
+Olá! Sou um Desenvolvedor Sênior com mais de 30 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1994, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
 
 Minha abordagem combina profundo conhecimento técnico com habilidades de liderança, permitindo que eu desenvolva sistemas robustos enquanto guio equipes para alcançar resultados excepcionais.
 
 > "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software apenas aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm da combinação de valores e disciplina." - **Robert C. Martin (Uncle Bob)**
 
-## 💻 Habilidades Técnicas
+
 
 <div align="center">
 
-### 🧠 Soft Skills
-
-- 💬 Comunicação clara e objetiva  
-- 🧩 Resolução de problemas complexos  
-- 🔄 Adaptabilidade a mudanças tecnológicas  
-- 🧠 Inteligência emocional  
-- 👥 Trabalho em equipe & liderança técnica  
-- ⏱️ Gestão do tempo e produtividade  
+## 💻 Habilidades Técnicas
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
