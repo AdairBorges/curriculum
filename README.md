@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Desenvolvedor Sênior](https://img.shields.io/badge/Desenvolvedor-Sênior-blue)
-  ![Experiência](https://img.shields.io/badge/Experiência-25%2B%20anos-green)
+  ![Experiência](https://img.shields.io/badge/Experiência-30%2B%20anos-green)
   ![Localização](https://img.shields.io/badge/Localização-Salvador,%20BA-orange)
   
   <a href="https://www.linkedin.com/in/adair-borges-vieira/" target="_blank">
@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou um Desenvolvedor Sênior com mais de 25 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1994, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
+Olá! Sou um Desenvolvedor Sênior com mais de 30 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1990, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
 
 Minha abordagem combina profundo conhecimento técnico com habilidades de liderança, permitindo que eu desenvolva sistemas robustos enquanto guio equipes para alcançar resultados excepcionais.
 
@@ -222,6 +222,8 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
   
   ### 💡 "Códigos são como piadas: quando você precisa explicá-los, provavelmente não são bons."
   
-  <img src="https://komarev.com/ghpvc/?username=adairborges&color=blue" alt="Profile views"/>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=adairborges&color=blue" alt="Profile views"/>
+  </span>
   
 </div>
