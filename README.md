@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Desenvolvedor Sênior](https://img.shields.io/badge/Desenvolvedor-Sênior-blue)
-  ![Experiência](https://img.shields.io/badge/Experiência-30%2B%20anos-green)
+  ![Experiência](https://img.shields.io/badge/Experiência-35%2B%20anos-green)
   ![Localização](https://img.shields.io/badge/Localização-Salvador,%20BA-orange)
   
   <a href="https://www.linkedin.com/in/adair-borges-vieira/" target="_blank">
@@ -20,11 +20,11 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou um Desenvolvedor Sênior com mais de 30 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1990, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
+Olá! Sou um Desenvolvedor Sênior com mais de 35 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1990, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
 
 Minha abordagem combina profundo conhecimento técnico com habilidades de liderança, permitindo que eu desenvolva sistemas robustos enquanto guio equipes para alcançar resultados excepcionais.
 
-> "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software apenas aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm da combinação de valores e disciplina." - **Robert C. Martin (Uncle Bob)**
+> *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software apenas aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm da combinação de valores e disciplina."* - **Robert C. Martin (Uncle Bob)**
 
 ## 💻 Habilidades Técnicas
 
