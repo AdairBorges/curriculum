@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Sou um Desenvolvedor Sênior com mais de 35 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1990, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
+Olá! Sou um Desenvolvedor Sênior com mais de 30 anos de experiência, apaixonado por construir sistemas de alta performance. Minha jornada na tecnologia começou em 1990, e desde então venho transformando desafios em soluções inovadoras, especialmente no setor financeiro.
 
 Minha abordagem combina profundo conhecimento técnico com habilidades de liderança, permitindo que eu desenvolva sistemas robustos enquanto guio equipes para alcançar resultados excepcionais.
 
@@ -150,7 +150,7 @@ Minha abordagem combina profundo conhecimento técnico com habilidades de lidera
 - Formação em Java Avançado (TargetTrust) - 70h
 - Formação em Oracle DBA Administrator (TargetTrust) - 60h
 - Multicloud Devops & AI Challenge (Cloud Bootcamp) - 12h
-- Imersão em Inteligência Artificial (Alura) - 6h
+- IA com Programação (Alura - em andamento) - 218h
 
 ## 🌐 Idiomas
 
